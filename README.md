@@ -1,3 +1,5 @@
+###Programming Assignment 2 Instructions from R-Programming Course, Prof. Roger Peng
+
 ### Introduction
 
 This second programming assignment will require you to write an R
